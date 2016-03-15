@@ -5,7 +5,9 @@ This repository comprises my sessions at [Information Technology Institute](http
 
 **Software prerequisite:**
  - LabVIEW 2015
- - LabVIEW Real Time Module. 
+ - LabVIEW Real Time Module.
+ - NI VISA for native serial communication.
+ - Proteus 8.3 or higher. 
  - PowerPoint viewer which can be downloaded from [here](https://www.microsoft.com/en-eg/download/details.aspx?id=13)
  
  > Contents will be updated whenever possible.
