@@ -1,0 +1,6 @@
+{
+  "name": "LabVIEW Course for Beginners",
+  "tagline": "A complete Mechatronics oriented LabVIEW course for beginners with Examples",
+  "body": "**LabVIEW Courseware**\r\n======================\r\n\r\nThis repository comprises my sessions at [Information Technology Institute](http://iti.gov.eg/) for mechatronics diploma. Its span is from basic notations to some specific topics serving the discipline.\r\n\r\n**Software prerequisite:**\r\n - LabVIEW 2015\r\n - LabVIEW Real Time Module.\r\n - NI VISA for native serial communication.\r\n - Proteus 8.3 or higher. \r\n - PowerPoint viewer which can be downloaded from [here](https://www.microsoft.com/en-eg/download/details.aspx?id=13)\r\n \r\n > Contents will be updated whenever possible.\r\n \r\n ***Waleed El-Badry***\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
